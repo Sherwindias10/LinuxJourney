@@ -1,1 +1,1 @@
-# LinuxJourney
+# linux-journey
